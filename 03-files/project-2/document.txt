@@ -1,0 +1,4 @@
+Title: Project 2: Re/Design
+----
+Description:
+This time around, we'll have a chance to address a real-world challenge, using local businesses as our "clients," while practicing a thorough design and engineering process.

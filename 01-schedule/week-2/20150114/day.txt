@@ -1,0 +1,16 @@
+Title: Day 4
+----
+Date: 20150114
+----
+Agenda:
+Today will be primarily about CSS.
+
+After setting up a nice, clean (resource: starter-project.zip page: resources text: project directory), we'll go through a series of exercies to get us familiarized with different CSS selectors and properties.
+
+Once we have a baseline understanding of the CSS *cascade*, we'll learn a technique called *floating* and start to do some more sophisticated layouts.
+
+----
+Checklist:
+----
+Concepts:
+The Filesystem, Paths, HTTP, CSS

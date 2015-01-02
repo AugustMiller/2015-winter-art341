@@ -1,0 +1,4 @@
+Title: Project 3: Nice to Meet You
+----
+Description:
+Let’s turn our attention inward, and produce a small site to kickstart our presence on the web.

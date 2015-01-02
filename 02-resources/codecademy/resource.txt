@@ -1,0 +1,9 @@
+Title: Codecademy
+----
+Description:
+An indispensable tool this term. We will use this as a benchmark for success as we move through new material, but will probably not use it during class. I strongly encourage everyone to get through at least the (link: http://www.codecademy.com/courses/5024844597a4040002069e67 text: HTML & CSS) course, and continue on to (link: http://www.codecademy.com/courses/5032dc5e6b2fef00020129aa text: Build Your Own Website) before starting our first project.
+
+Be sure to look at the (resource: assignment-codecademy.pdf page: files/codecademy text: assignment brief) for Codecademy on the files page for the actual due dates!
+----
+Link:
+http://www.codecademy.com/

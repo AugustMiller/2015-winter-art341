@@ -1,0 +1,7 @@
+Title: Transmit
+----
+Description:
+Transmit is a lightweight and powerful FTP client, built by Portland-based (link: http://panic.com/ text: Panic). We'll need this—or another comparable piece of free software like (link: https://filezilla-project.org/download.php?type=client text: FileZilla)— to publish our content to a web server.
+----
+Link:
+http://panic.com/transmit/

@@ -1,0 +1,4 @@
+Title: Project Folder Organization
+----
+Description:
+This set of slides describes the organization of a pretty basic but standard web project folder. Be sure to download the (resource: starter-project.zip page: resources text: starter project) for an example.

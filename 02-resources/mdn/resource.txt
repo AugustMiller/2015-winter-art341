@@ -1,0 +1,9 @@
+Title: Mozilla Developer Network
+----
+Description:
+Mozilla sets the bar for standards-compliance and cutting-edge feature support for internet technology. You probably know them for the (link: https://www.mozilla.org/en-US/firefox/new/ text: FireFox) browser, but the foundation has a broader vision for improving our experience of the web.
+
+This class will heavily rely on the MDN for information regarding (link: https://developer.mozilla.org/en-US/docs/Web/CSS text: CSS) and (link: https://developer.mozilla.org/en-US/docs/Web/HTML text: HTML).
+----
+Link:
+https://developer.mozilla.org/en-US/

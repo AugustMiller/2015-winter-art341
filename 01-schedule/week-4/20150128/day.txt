@@ -1,0 +1,17 @@
+Title: Day 8
+----
+Date: 20150128
+----
+Agenda:
+
+Let's get familiar with some CSS features that allow us to create rich detail in our user interfaces.
+
+You'll be surprised how much we can accomplish with just CSS— oftentimes, images aren't required to create attractive, reliable visual designs.
+
+----
+Checklist:
+- Your completed site design (Homepage and one Sub-page) is due on Slack by midnight, 22 October.
+
+----
+Concepts:
+Webfonts, Typographic Systems, UI Details

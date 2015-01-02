@@ -1,0 +1,4 @@
+Title: Files
+----
+Text:
+All canonical class documents and project briefs will be posted here. Content of documents found here supercede information found or distributed elsewhere.

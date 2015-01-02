@@ -1,0 +1,4 @@
+Title: Starter Project Directory
+----
+Description:
+Feel free to use this as a starting point for fresh projects. It contains an `index.html` file, `styles` and `images` directories, and is already linked to a stylesheet and a single image.

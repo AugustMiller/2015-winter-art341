@@ -1,0 +1,4 @@
+Title: CSS Cheat-Sheet
+----
+Description:
+Our (almost) first look at CSS selectors, rule syntax, pseudo-selectors and color formats. I'll add to this as we progress, so keep checking back on it, or visit the (link: https://developer.mozilla.org/en-US/docs/Web/CSS text: CSS guide) on the MDN.

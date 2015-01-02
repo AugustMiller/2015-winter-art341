@@ -1,0 +1,7 @@
+Title: Google Chrome
+----
+Description:
+Google's fast and secure web browser. We'll be using this to view and debug all exercises and projects this term. Chrome, Safari or FireFox are all acceptable, but for the sake of time and consistency, we should all be using the same browser, and keep it up to date.
+----
+Link:
+https://www.google.com/chrome/browser/

@@ -1,0 +1,9 @@
+Title: Sublime Text
+----
+Description:
+Sublime Text is a minimal but incredibly powerful text editor. It has the right balance of utility and user-friendliness to be a great match for first-time coders and seasoned hackers alike.
+
+I highly reccommend picking up a license— we'll live and breathe text in this course (and 342!), so it's a great investment. Having used it almost daily for three or four years, I can confidently say it's the best piece of software I've ever purchased.
+----
+Link:
+http://www.sublimetext.com/

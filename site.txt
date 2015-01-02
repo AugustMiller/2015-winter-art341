@@ -1,0 +1,11 @@
+Title: ART341
+----
+Term: Winter 2015
+----
+Author: August Miller
+----
+Description: Winter 2015 Session of ART341: Interactive Design I.
+----
+Keywords: education, university, winter 2015, computer science, design, technology
+----
+Copyright: Built with (link: http://getkirby.com/ text: Kirby CMS) by (link: http://gusmiller.com/ text: August W. Miller) for ART341, Winter 2015 at Portland State University.

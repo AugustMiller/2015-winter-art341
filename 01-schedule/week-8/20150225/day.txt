@@ -1,0 +1,15 @@
+Title: Day 16
+----
+Date: 20150225
+----
+Agenda:
+
+Today will be the final in-class opportunity to ask questions about (resource: project-2.pdf page: files/project-2 text: Project 2).
+
+Please come with a near-complete site, so we can discuss minutia to be improved over the weekend. There ought to be no outstanding roadblocks to completing Project 2.
+
+----
+Checklist:
+- Please be aware that the due date for (resource: project-2.pdf page: files/project-2 text: Project 2) *has been extended until Monday, 24 November*. You now have the weekend to hash out any final issues with your design and engineering.
+----
+Concepts:

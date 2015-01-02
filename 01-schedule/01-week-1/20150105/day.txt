@@ -1,0 +1,37 @@
+Title: Day 1
+----
+Date: 20150105
+----
+Agenda:
+Let's get started by sharing our favorite websites and software. This might mean a social network, media service, news site or an app on your phone. What makes a compelling screen experience? Post these to our (link: https://psudesign.slack.com/messages/links/ text: Slack channel) so we can dive right in!
+
+We'll talk broadly about audience, intent, results, technology and process for each, and how each relates to our objectives this term.
+
+
+----
+Notes:
+
+- Sharing websites, talking about our experiences on the web
+- Why I'm here
+ - Design and development have a lot to learn from one another
+ - I'm learning every day and having a lot of fun doing it.
+
+- Why learn to code
+ - Problem solving
+ - Second/third/fourth Language
+ - Interoperability with design
+
+- Design for the web
+  - Information architecture
+  - Dynamic content
+  - 
+
+
+----
+Concepts:
+Internet, Technology, Code
+----
+Checklist:
+- Review Syllabus and email <hello@gusmiller.com> to confirm your participation.
+- Purchase and download (link: http://www.sublimetext.com/2 text: SublimeText 2), if you haven't done so already.
+- Sign up for (link: https://psudesign.slack.com/ text: Slack) and request an invite to Our Team.

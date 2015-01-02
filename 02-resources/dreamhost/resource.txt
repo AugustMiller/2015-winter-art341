@@ -1,0 +1,9 @@
+Title: DreamHost
+----
+Description:
+Dreamhost is a super-basic web host. If you want to start publishing your projects, sign up for an account! For as little as $8/mo, you can have a simple web server, FTP access, and as many domains and sub-domains as you want.
+
+This website lives on a DreamHost server. If you click (link: http://www.dreamhost.com/r.cgi?1454613 text: this link), I'll get a little kick-back when you sign up for an account.
+----
+Link:
+https://dreamhost.com/

@@ -1,0 +1,7 @@
+Title: Backblaze
+----
+Description:
+If you don't have your machine backed up, do it! Backblaze is super cheap and impossibly easy to use. As long as you have an internet connection, your computer is backed up seamlessly. You can restore files and folders at a time from their web interface, or get a copy of your hard drive mailed to you, should you ever experience data loss. Use (link: https://secure.backblaze.com/r/01rzik text: this link) and I'll get a kick-back when you sign up!
+----
+Link:
+https://www.backblaze.com/

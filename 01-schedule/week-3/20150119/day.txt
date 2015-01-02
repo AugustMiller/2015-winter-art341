@@ -1,0 +1,19 @@
+Title: Day 5
+----
+Date: 20150119
+----
+Agenda:
+
+Today, we're going to ramp up on CodeCademy, discuss a number of hang-ups with the blog exercise, and get more familiar with how the CSS property `float` works.
+
+We'll also get familiar with *Project 1*.
+
+Time-permitting, we'll start talking about design process for the web.
+
+----
+Checklist:
+- Styled blog demonstration is to be posted to Slack before class.
+
+----
+Concepts:
+Floats, Columnar Layouts

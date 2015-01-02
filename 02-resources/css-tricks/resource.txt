@@ -1,0 +1,7 @@
+Title: CSS Tricks
+----
+Description:
+Chris Coiyer's (link: http://css-tricks.com/ text: CSS Tricks) website is an awesome resource for detailed tutorials, explanations, workarounds and general code wizardry. All information on the main site is freely accessible, and more often than not will appear near the top of a Google search for anything related to beginning web design and development.
+----
+Link:
+http://css-tricks.com/

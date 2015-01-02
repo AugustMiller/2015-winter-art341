@@ -1,0 +1,4 @@
+Title: Blog Demo
+----
+Description:
+For use in class Wednesday, 8 October. We'll be working primarily with CSS to style a basic blog feed.
