@@ -1,0 +1,49 @@
+Title: HTML Lists
+----
+Date: 20150107
+----
+Description:
+Familiarize yourself with HTML syntax and produce a tiny webpage.
+----
+Text:
+#### Intent
+Some HTML tags have special meaning. It's important to use them _semantically_, whenever possible. Semantic HTML is a practice that involves using appropriately named tags (like `em` for "emphasis" or `h1` for an important headline)
+
+#### Lists
+Let's use the `ul` and `ol` tags to build simple lists of content.
+
+Typically, an _unordered list_ tags (`ul`) are used to relate similar, unsequenced items. _Ordered List_ tags (`ol`) are used when the sequence of their items is important, like instructions. Both types of lists use the _list item_ tag (`li`) to mark the beginning and end of each item.
+
+Take a look at this HTML for an unordered list of fruit:
+
+    <ul>
+      <li>Apple</li>
+      <li>Raspberry</li>
+      <li>Banana</li>
+    </ul>
+
+And this, of an ordered list of instructions for how to make fruit salad:
+
+    <ol>
+      <li>Slice fruit, avoiding seeds and pits</li>
+      <li>Combine in a large mixing bowl</li>
+      <li>Add 1/4 cup fruit juice</li>
+      <li>Toss</li>
+    </ol>
+
+Pretty similar, right? Let's see how the unordered list appears in the browser:
+
+- Apple
+- Raspberry
+- Banana
+
+Now, the ordered list. Notice the numbers that the browser adds:
+
+1. Slice fruit, avoiding seeds and pits
+2. Combine in a large mixing bowl
+3. Add 1/4 cup fruit juice
+3. Toss
+
+#### Expectations
+
+It's time for you to build your own lists. By Wednesday, turn in a single HTML file containing two labeled lists to your Google Drive folder.
