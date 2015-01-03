@@ -7,6 +7,7 @@ Let's get started by sharing our favorite websites and software. This might mean
 
 We'll talk broadly about audience, intent, results, technology and process for each, and how each relates to our objectives this term.
 
+Time permitting, we'll make a quick pass over the typical process for a typical web or software project, in the real world.
 
 ----
 Notes:
@@ -24,7 +25,6 @@ Notes:
 - Design for the web
   - Information architecture
   - Dynamic content
-  - 
 
 
 ----
