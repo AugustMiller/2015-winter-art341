@@ -1,0 +1,34 @@
+Title: Codecademy
+----
+Date: 20150202
+----
+Description:
+Codecademy will be an essential resource outside of class, and is a required part of our coursework.
+----
+Text:
+#### Background
+Codecademy is a great resource for beginning web developers. They have lessons in HTML, CSS, JavaScript, Ruby, PHP and Python, with more being added all the time. Millions of kids and adults have learned to program with Codecademy.
+
+#### Units
+The two units we’ll be concerned with are:
+- (link: http://www.codecademy.com/en/tracks/web text: HTML & CSS popup: yes)
+- (link: http://www.codecademy.com/skills/make-a-website text: Make a Website popup: yes)
+
+Students should feel free to take any other units of the Codecademy curriculum as they want. While no extra credit will be given, the greater technical proficiency can be demonstrated in the grasp of basic principles and the use of advanced techniques, both allowing better representation of their designs in the browser.
+
+#### Schedule
+| Date | Through Lesson | In Unit
+| --- | --- | --- | --- |
+| 12 January| Introduction to CSS (Group) | HTML & CSS |
+| 19 January | CSS Element Positioning (Group) | HTML & CSS |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| 26 January | Style Your Elements | Make a Website |
+| 2 February | Kickstart Your Webpage | Make a Website |
+
+
+All lessons are due 9AM on the day listed, unless otherwise noted on the class website. While this looks like a lot of work in not-a-lot of time, the estimates listed on each unit will only put about four hours of work between classes, perhaps more in the first sprint.
+
+#### Evaluation
+Students’ progress is monitored as part of Codecademy’s teaching tools. While the specific exercise responses are not visible to anyone else, the state of each lesson is reported to the instructor. Points are awarded for segments of work completed on-time. No credit is awarded for late completion.
+
+Unless the account in which exercises are completed is managed personally, there is no need to check in on the listed due dates. If a personal account is used, arrangements will need to be made for dates on which work is due.

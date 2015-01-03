@@ -1,4 +1,0 @@
-Title: Codecademy Assignment Structure
-----
-Description:
-Please review the expectations and deadlines for the use of (link: http://www.codecademy.com/ text: Codecademy).
