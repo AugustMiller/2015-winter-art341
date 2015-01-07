@@ -1,0 +1,19 @@
+Title: Day 2
+----
+Date: 20150107
+----
+Agenda:
+During the next few meetings we'll expose ourselves to an increasingly complex set of tools for representing information on the web. Today, we'll do a quick overview of some common document formats, like (link: http://daringfireball.net/projects/markdown/ text: Markdown popup: true), (link: http://www.yaml.org/ text: YAML popup: true), (link: http://www.json.org/ text: JSON popup: true), and finally (link: https://developer.mozilla.org/en-US/docs/Web/HTML text: HTML popup: true).
+
+Class time will be split between lecture, Q&A and 
+
+This will be our first time working in Sublime Text, so be sure you have your computer updated and all the required software installed.
+
+----
+Concepts:
+Text on the Web, Data Structures, Syntax
+----
+Checklist:
+- Poke around the (link: https://developer.mozilla.org/en-US/ text: Mozilla Developer Network) to get a sense for its organization.
+- In particular, read the (link: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Introduction text: Introduction to HTML)
+- Begin working in (link: assignments/codecademy text: Codecademy). Our first milestone is next Monday!
