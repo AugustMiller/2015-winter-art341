@@ -14,7 +14,7 @@ Let's use the `ul` and `ol` tags to build simple lists of content.
 
 Typically, an _unordered list_ tags (`ul`) are used to relate similar, unsequenced items. _Ordered List_ tags (`ol`) are used when the sequence of their items is important, like instructions. Both types of lists use the _list item_ tag (`li`) to mark the beginning and end of each item.
 
-Take a look at this HTML for an unordered list of fruit:
+Take a look at this HTML representing an unordered list of fruit:
 
     <ul>
       <li>Apple</li>
