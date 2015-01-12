@@ -1,0 +1,18 @@
+Title: Day 3
+----
+Date: 20150112
+----
+Agenda:
+Last week, we learned about ways to express complex, structured, hierarchical information with just text. We talked about Markdown, YAML, JSON and HTML, and saw just the very beginning of CSS.
+
+We'll spend a moment reviewing HTML, and explore some more tags, like the `a` tag for links, the `span` tag for styling text, and the anonymous content divider, or `div` tag.
+
+In the second half of class, we'll dive into CSS, the language we use to describe the _appearance_ of HTML.
+
+----
+Concepts:
+Syntax, Separation of _Content_ and _Presentation_
+----
+Checklist:
+- Make sure you're caught up on (link: assignments/codecademy text: Codecademy)!
+- Add your (link: assignment/lists text: Lists) assignment folder to Google Drive, renaming it to `01-Lists`.
