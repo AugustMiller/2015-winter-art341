@@ -46,4 +46,4 @@ Now, the ordered list. Notice the numbers that the browser adds:
 
 #### Expectations
 
-It's time for you to build your own lists. By Wednesday, turn in a single HTML file containing two labeled lists to your Google Drive folder.
+It's time for you to build your own lists. By Monday, turn in a single HTML file containing two labeled lists to your Google Drive folder.
