@@ -1,0 +1,12 @@
+Title: Day 4
+----
+Date: 20150114
+----
+Agenda:
+Let's keep moving with CSS. We'll do a couple of exercises pertaining to last class's lecture on CSS selectors, and then spend the balance of the meeting learning about specific CSS properties to begin laying out an example blog.
+
+----
+Checklist:
+----
+Concepts:
+CSS Selectors, Inheritance, Specificity, Classes
