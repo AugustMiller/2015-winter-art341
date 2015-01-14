@@ -1,0 +1,4 @@
+Title: CSS: Challenge Starter Kit
+----
+Description:
+A group exercise. We'll solve some tricky (but common) CSS problems.

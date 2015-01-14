@@ -5,6 +5,10 @@ Date: 20150114
 Agenda:
 Let's keep moving with CSS. We'll do a couple of exercises pertaining to last class's lecture on CSS selectors, and then spend the balance of the meeting learning about specific CSS properties to begin laying out an example blog.
 
+Toward the end of class, we'll run through the first Project 1 tasks, to be completed over the weekend.
+
+Please download the (resource: 20150114-classes.zip page: files/html-classes text: HTML Classname Exercise), (resource: 20150114-challenge.zip page: files/css-challenge text: CSS Selector Challenge) and (resource: 20150114-blog.zip page: files/css-blog text: Blog Starter Kit) folders so we can get started right away.
+
 ----
 Checklist:
 ----

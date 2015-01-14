@@ -1,0 +1,4 @@
+Title: CSS: Blog Styling Starter Kit
+----
+Description:
+We'll use this as a starting point for our class on 14 January.
