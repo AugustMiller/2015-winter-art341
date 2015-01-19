@@ -1,0 +1,15 @@
+Title: Day 5
+----
+Date: 20150119
+----
+Agenda:
+
+There is no class meeting today. We'll resume on Wednesday with one-on-one meetings, regarding (resource: project-1.pdf page: files/project-1 text: Project 1).
+
+----
+Checklist:
+- Wrap up the HTML & CSS section of (link: assignments/codecademy text: Codecademy)!
+- Respond to the (resource: project-1.pdf page: files/project-1 text: Project 1) brief with any clarifying questions, and begind the strategy phase.
+
+----
+Concepts:
