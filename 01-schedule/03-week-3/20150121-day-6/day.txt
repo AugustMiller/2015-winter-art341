@@ -1,0 +1,20 @@
+Title: Day 6
+----
+Date: 20150121
+----
+Agenda:
+Today will be mostly devoted to one-on-one Project 1 check-ins. Everyone will be responsible for rationalizing their topics and documenting their process up to this point.
+
+Have your computers, sketchbooks or notepads ready! I'd like to see how you've represented your thinking. While you're waiting, continue with (link: assignments/codecademy text: Codecademy) and wrap up your work on the Blog Styling exercise from last week.
+
+The remainder of time will be used to start talking about layout with CSS. Codecademy will have introduced this concept in the _CSS Positioning_ lesson.
+
+----
+Checklist:
+- Be ready for your one-on-one check-in.
+- Share your Project 1 topic in `#projects` on Slack! It'll be nice for everyone to see the variety 
+- Ensure you're caught up in (link: assignments/codecademy text: Codecademy).
+
+----
+Concepts:
+Strategy, Defending Work
