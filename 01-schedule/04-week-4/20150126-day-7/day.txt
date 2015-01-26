@@ -4,7 +4,7 @@ Date: 20150126
 ----
 Agenda:
 
-Let's take a different approach to Project 1. Clearly, a number of objectives weren't clear at the outset, so to make sure everyone is on board, we'll look at some examples of past projects, and discuss why they were successful.
+Let's take a different approach to Project 1. A number of objectives weren't clear at the outset, so to make sure everyone is on board, we'll look at some examples of past projects, and discuss why they were successful.
 
 We'll briefly talk about wireframes, and how our planning work will transition into design and development.
 
