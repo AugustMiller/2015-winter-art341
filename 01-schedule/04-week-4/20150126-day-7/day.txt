@@ -1,0 +1,22 @@
+Title: Day 7
+----
+Date: 20150126
+----
+Agenda:
+
+Let's take a different approach to Project 1. Clearly, a number of objectives weren't clear at the outset, so to make sure everyone is on board, we'll look at some examples of past projects, and discuss why they were successful.
+
+We'll briefly talk about wireframes, and how our planning work will transition into design and development.
+
+In the second half of class, we'll go over the project folder again (while discussing relative and absolute URLs), and take a closer look at CSS Floats.
+
+----
+Checklist:
+- Be sure you're caught up on (link: assignments/codecademy text: Codecademy).
+
+----
+Concepts:
+Research & Strategy, Project Briefs, CSS Floating
+
+----
+Notes:
