@@ -1,0 +1,17 @@
+Title: Day 8
+----
+Date: 20150128
+----
+Agenda:
+
+Today, we'll continue our work with floats, and build a multi-page site, containing a sidebar and primary content area.
+
+----
+Checklist:
+- Be ready in class to share your topic, selected items, and attributes for (resource: project-1.pdf page: files/project-1 text: Project 1).
+
+----
+Concepts:
+- The `href` attribute for links
+- Relative paths
+- Complex project folders
