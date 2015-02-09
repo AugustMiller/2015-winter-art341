@@ -1,0 +1,18 @@
+Title: Day 10
+----
+Date: 20150204
+----
+Agenda:
+
+Half way! Let's take the day to do one-on-one check-ins regarding Project 1 visual design. Please note that the deadline has been extended to Friday, February 6.
+
+Regardless, I'd like to see some evidence of progress and visual thinking that reflects your topic, attributes and wireframes.
+
+I'll be noting common visual treatments and will use the remainder of class to demonstrate how we might translate them into code.
+
+----
+Checklist:
+- Codecademy should be complete.
+
+----
+Concepts:
