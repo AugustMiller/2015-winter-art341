@@ -1,0 +1,13 @@
+Title: Day 12
+----
+Date: 20150211
+----
+Agenda:
+
+Today is devoted entirely to one-on-one and group Q&A about Project 1 engineering. This is your last opportunity to get in-person help. Over the weekend, help will only be available over Slack, or a help session _if the class organizes it_.
+
+----
+Checklist:
+- If you'd like to check in, please have your codebase in Sublime Text, design comps handy, and Chrome open with the Inspector up.
+----
+Concepts:
