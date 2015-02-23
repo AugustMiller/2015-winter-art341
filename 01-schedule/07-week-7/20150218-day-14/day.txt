@@ -1,0 +1,16 @@
+Title: Day 14
+----
+Date: 20150218
+----
+Agenda:
+
+Today's meeting is cancelled due to illness.
+
+Please turn in your strategy work to Drive and refer to Slack for feedback.
+
+----
+Checklist:
+- The Strategy component (aside from wireframes) of Project 2 is due today.
+
+----
+Concepts:

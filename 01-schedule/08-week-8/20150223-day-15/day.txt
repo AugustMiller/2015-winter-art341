@@ -1,0 +1,16 @@
+Title: Day 15
+----
+Date: 20150223
+----
+Agenda:
+
+Project 1 grades will be distributed today. I'll call each of you up for a quick one-on-one check-in regarding your progress, and talk about the successes and areas of improvement for Project 1.
+
+The remainder of class time is devoted entirely to Q&A regarding design and development for (resource: project-2.pdf page: files/project-2 text: Project 2).
+
+----
+Checklist:
+- Your wireframes for Project 2 are due today! Be sure to drop them in the `Process` folder for Project 2 in Drive.
+
+----
+Concepts:
