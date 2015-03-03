@@ -1,0 +1,12 @@
+Title: Day 17
+----
+Date: 20150302
+----
+Agenda:
+
+The next few sessions will be devoted to Project 2 development. I'll be reviewing design comps and assembling a list of demonstrations for development tasks that may be common among projects.
+----
+Checklist:
+- Design comps for Project 2 are due. Please upload to Drive, in your _Process_ folder.
+----
+Concepts:
