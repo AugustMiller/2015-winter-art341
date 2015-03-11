@@ -1,0 +1,14 @@
+Title: Day 18
+----
+Date: 20150304
+----
+Agenda:
+
+Today will be devoted to development. Ask questions and get feedback! We may do some demonstrations for recurring issues.
+
+I'll continue to look over design comps during the meeting and reach out over Slack with comments.
+
+----
+Checklist:
+----
+Concepts:

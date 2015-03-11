@@ -1,0 +1,12 @@
+Title: Day 19
+----
+Date: 20150309
+----
+Agenda:
+Work day! Come to me with questions, and we'll do some hacking.
+
+----
+Checklist:
+- Check in with me via Slack before March 11. This is required in the project brief.
+----
+Concepts:

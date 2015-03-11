@@ -1,0 +1,14 @@
+Title: Day 20
+----
+Date: 20150311
+----
+Agenda:
+
+Today is your last opportunity to ask questions in person (unless a study session is organized outside of class). Everyone must add a ZIP of their working project folder by the end of the meeting, as well as a progress check-in on Slack.
+
+----
+Checklist:
+- Be ready to ask any final technology questions that might benefit from in-class demonstrations.
+- Project 2 is due on Thursday, 19 March at 12:30PM!
+----
+Concepts:
